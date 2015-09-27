@@ -15,6 +15,11 @@ ASAP Library is a loose collection of useful patterns. You may find a couple of 
 [API Documentation](http://arthurclemens.github.io/asaplibrary/html/index.html)
 
 
+## Examples
+
+See [Examples on the wiki](https://github.com/ArthurClemens/asaplibrary/wiki)
+
+
 ## History
 
 Before ASAP Library there was ASAP Framework. And before that, a collection of ActionScript patterns grown with a couple of colleagues at Lost Boys Amsterdam.
